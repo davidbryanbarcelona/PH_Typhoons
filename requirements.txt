@@ -2,5 +2,3 @@ streamlit
 tensorflow
 pandas
 numpy
-matplotlib
-sklearn
